@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/module-1/WaterHeatingCalculator/nbproject/private/
